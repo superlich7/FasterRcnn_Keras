@@ -20,10 +20,10 @@ GTX1060 6G
 A jupyter-notebook based file is available for single step debug
 
 some of the results:
-![](https://github.com/superlich7/FasterRcnn_Keras/tree/master/result_imgs/example0.jpg)
+![](https://github.com/superlich7/FasterRcnn_Keras/result_imgs/example0.jpg)
 
-![](https://github.com/superlich7/FasterRcnn_Keras/tree/master/result_imgs/example1.jpg)
+![](https://github.com/superlich7/FasterRcnn_Keras/result_imgs/example1.jpg)
 
-![](https://github.com/superlich7/FasterRcnn_Keras/tree/master/result_imgs/example2.jpg)
+![](https://github.com/superlich7/FasterRcnn_Keras/result_imgs/example2.jpg)
 
 This work is mainly build base on https://github.com/yhenon/keras-frcnn
